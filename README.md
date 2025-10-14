@@ -2,7 +2,7 @@
 Zombies group project.
 
 ## Members:
-William Barnard IV\n
-Andrew Heftie\n
-Matthew Heftie\n
-Joe Stanek\n
+William Barnard IV__
+Andrew Heftie__
+Matthew Heftie__
+Joe Stanek__
