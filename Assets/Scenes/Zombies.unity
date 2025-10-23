@@ -779,7 +779,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3936314286895302756, guid: 8a2352edefde4c940a50b0888e3406fa, type: 3}
       propertyPath: lookRadius
-      value: 20
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 9021282680956783299, guid: 8a2352edefde4c940a50b0888e3406fa, type: 3}
       propertyPath: m_Height
